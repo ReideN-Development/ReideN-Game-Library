@@ -23,7 +23,7 @@
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/dankesh1/ReideN-Game-Library/releases">
+  <a href="https://github.com/ReideN-Development/ReideN-Game-Library/releases">
     <img src="https://img.shields.io/badge/🚀_İndir-Releases-blue?style=for-the-badge" alt="Download">
   </a>
   <a href="https://www.virustotal.com/gui/file/6eda61725aa7017f6fb4e174341844f6339ad23b83c6e4e7c9f8ac90be7e945c?nocache=1" target="_blank">
@@ -38,7 +38,7 @@
 
 **ReideN Game Library**, Steam'i yeniden başlatmadan anlık kütüphane yönetimi, Denuvo korumalı oyunlarda akıllı SteamID ve save güvencesi, çok oyunculu/co-op ağ desteği, harici launcher uyumluluğu (Rockstar, Ubisoft, EA) ve 178.000'den fazla kataloğu tek çatı altında toplayan gelişmiş bir oyun yönetim platformudur.
 
-[İndir](https://github.com/dankesh1/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/bd1970d356f55017cf036663ac74ad352bfc8d9851133d9842370e63a5de9568) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/0979199449c1f13cc436a689b61db0f2a08831bae575943ec40303207c09209e) · [Discord](https://discord.gg/reiden) · [Hata Bildir](https://discord.gg/reiden)
+[İndir](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/217dadbaf7b32e028eaa9ffc0967a74745897e03232baa1593a5c54bb7a129fd?nocache=1) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/6eda61725aa7017f6fb4e174341844f6339ad23b83c6e4e7c9f8ac90be7e945c?nocache=1) · [Discord](https://discord.gg/reiden) · [Hata Bildir](https://discord.gg/reiden)
 
 </div>
 
@@ -165,13 +165,13 @@ Kişisel tercihlerinizi, gizliliğinizi ve hesap güvenliğinizi kolayca yapıla
 
 ## 🚀 Kurulum ve Kullanım
 
-1. **İndirin:** [Releases](https://github.com/dankesh1/ReideN-Game-Library/releases) sayfasından en son sürümü edinin.
+1. **İndirin:** [Releases](https://github.com/ReideN-Development/ReideN-Game-Library/releases) sayfasından en son sürümü edinin.
 2. **Kurulum:** İndirilen kurulum dosyasını çalıştırın ve adımları takip edin.
 3. **Giriş:** Hesabınıza giriş yapın veya saniyeler içinde yeni bir hesap oluşturun.
 4. **Bağlantılar:** İsteğe bağlı olarak Steam ve Discord hesaplarınızı eşleyin.
 5. **Oynamaya Başlayın:** Mağazadan dilediğiniz oyunu kütüphanenize ekleyin ve oynamaya başlayın!
 
-> 🔒 **Lisans ve Güvenlik:** ReideN Game Library kişisel kullanım ve araştırma amaçlı geliştirilmiş tescilli bir yazılımdır. Detaylar için lütfen [LICENSE](LICENSE) ve [SECURITY.md](SECURITY.md) belgelerini inceleyiniz.
+> 🔒 **Lisans ve Güvenlik:** ReideN Game Library kişisel kullanım ve araştırma amaçlı geliştirilmiş tescilli bir yazılımdır. Detaylar için lütfen [LICENSE](LICENSE) belgesini inceleyiniz.
 
 ---
 
@@ -182,7 +182,7 @@ Kişisel tercihlerinizi, gizliliğinizi ve hesap güvenliğinizi kolayca yapıla
     <td width="33%" align="center">
       <h3>📦 İndir</h3>
       <p>En güncel yükleyiciye GitHub Releases üzerinden hemen ulaşın.</p>
-      <a href="https://github.com/dankesh1/ReideN-Game-Library/releases"><b>👉 Sürümleri İndir</b></a>
+      <a href="https://github.com/ReideN-Development/ReideN-Game-Library/releases"><b>👉 Sürümleri İndir</b></a>
     </td>
     <td width="33%" align="center">
       <h3>🛡️ VirusTotal Raporları</h3>
@@ -209,6 +209,6 @@ Kişisel tercihlerinizi, gizliliğinizi ve hesap güvenliğinizi kolayca yapıla
 
 **ReideN Game Library'yi beğendiyseniz projemize sağ üstten ⭐ yıldız vererek destek olabilirsiniz!**
 
-[ReideN-Game-Library GitHub](https://github.com/dankesh1/ReideN-Game-Library)
+[ReideN-Game-Library GitHub](https://github.com/ReideN-Development/ReideN-Game-Library)
 
 </div>
