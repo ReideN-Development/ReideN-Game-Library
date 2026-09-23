@@ -26,10 +26,10 @@
   <a href="https://github.com/dankesh1/ReideN-Game-Library/releases">
     <img src="https://img.shields.io/badge/🚀_İndir-Releases-blue?style=for-the-badge" alt="Download">
   </a>
-  <a href="https://www.virustotal.com/gui/file/0979199449c1f13cc436a689b61db0f2a08831bae575943ec40303207c09209e" target="_blank">
+  <a href="https://www.virustotal.com/gui/file/6eda61725aa7017f6fb4e174341844f6339ad23b83c6e4e7c9f8ac90be7e945c?nocache=1" target="_blank">
     <img alt="VirusTotal MSI" src="https://img.shields.io/badge/VirusTotal-MSI-blue?style=for-the-badge&logo=virustotal" />
   </a>
-  <a href="https://www.virustotal.com/gui/file/bd1970d356f55017cf036663ac74ad352bfc8d9851133d9842370e63a5de9568" target="_blank">
+  <a href="https://www.virustotal.com/gui/file/217dadbaf7b32e028eaa9ffc0967a74745897e03232baa1593a5c54bb7a129fd?nocache=1" target="_blank">
     <img alt="VirusTotal EXE" src="https://img.shields.io/badge/VirusTotal-EXE-blue?style=for-the-badge&logo=virustotal" />
   </a>
 </p>
@@ -187,7 +187,7 @@ Kişisel tercihlerinizi, gizliliğinizi ve hesap güvenliğinizi kolayca yapıla
     <td width="33%" align="center">
       <h3>🛡️ VirusTotal Raporları</h3>
       <p>Şeffaf güvenlik analizi ve resmi antivirüs tarama sonuçları.</p>
-      <a href="https://www.virustotal.com/gui/file/bd1970d356f55017cf036663ac74ad352bfc8d9851133d9842370e63a5de9568" target="_blank"><b>🔍 EXE Taraması</b></a> · <a href="https://www.virustotal.com/gui/file/0979199449c1f13cc436a689b61db0f2a08831bae575943ec40303207c09209e" target="_blank"><b>🔍 MSI Taraması</b></a>
+      <a href="https://www.virustotal.com/gui/file/217dadbaf7b32e028eaa9ffc0967a74745897e03232baa1593a5c54bb7a129fd?nocache=1" target="_blank"><b>🔍 EXE Taraması</b></a> · <a href="https://www.virustotal.com/gui/file/6eda61725aa7017f6fb4e174341844f6339ad23b83c6e4e7c9f8ac90be7e945c?nocache=1" target="_blank"><b>🔍 MSI Taraması</b></a>
     </td>
     <td width="33%" align="center">
       <h3>💬 Topluluk & Destek</h3>
