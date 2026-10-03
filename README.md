@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-5.3.1-2f81f7?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/version-5.1.3-2f81f7?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-1f6feb?style=for-the-badge">
   <img alt="Status" src="https://img.shields.io/badge/status-active-238636?style=for-the-badge">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-Integrated-000000?style=for-the-badge&logo=steam">
