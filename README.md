@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-5.1.2-2f81f7?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/version-5.3.1-2f81f7?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-1f6feb?style=for-the-badge">
   <img alt="Status" src="https://img.shields.io/badge/status-active-238636?style=for-the-badge">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-Integrated-000000?style=for-the-badge&logo=steam">
@@ -26,10 +26,10 @@
   <a href="https://github.com/ReideN-Development/ReideN-Game-Library/releases">
     <img src="https://img.shields.io/badge/🚀_İndir-Releases-blue?style=for-the-badge" alt="Download">
   </a>
-  <a href="https://www.virustotal.com/gui/file/6eda61725aa7017f6fb4e174341844f6339ad23b83c6e4e7c9f8ac90be7e945c?nocache=1" target="_blank">
+  <a href="https://www.virustotal.com/gui/file/600ee43261bb2da3fb7b3e7126f8e6848e1e0c9e8b7117afa1762ea3629d2f7c?nocache=1" target="_blank">
     <img alt="VirusTotal MSI" src="https://img.shields.io/badge/VirusTotal-MSI-blue?style=for-the-badge&logo=virustotal" />
   </a>
-  <a href="https://www.virustotal.com/gui/file/217dadbaf7b32e028eaa9ffc0967a74745897e03232baa1593a5c54bb7a129fd?nocache=1" target="_blank">
+  <a href="https://www.virustotal.com/gui/file/4730611473a49334485a47a46d03689129398866cce2938637cbeec471ab0857" target="_blank">
     <img alt="VirusTotal EXE" src="https://img.shields.io/badge/VirusTotal-EXE-blue?style=for-the-badge&logo=virustotal" />
   </a>
 </p>
@@ -38,7 +38,7 @@
 
 **ReideN Game Library**, Steam'i yeniden başlatmadan anlık kütüphane yönetimi, Denuvo korumalı oyunlarda akıllı SteamID ve save güvencesi, çok oyunculu/co-op ağ desteği, harici launcher uyumluluğu (Rockstar, Ubisoft, EA) ve 178.000'den fazla kataloğu tek çatı altında toplayan gelişmiş bir oyun yönetim platformudur.
 
-[İndir](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/217dadbaf7b32e028eaa9ffc0967a74745897e03232baa1593a5c54bb7a129fd?nocache=1) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/6eda61725aa7017f6fb4e174341844f6339ad23b83c6e4e7c9f8ac90be7e945c?nocache=1) · [Discord](https://discord.gg/reiden) · [Hata Bildir](https://discord.gg/reiden)
+[İndir](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/4730611473a49334485a47a46d03689129398866cce2938637cbeec471ab0857) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/600ee43261bb2da3fb7b3e7126f8e6848e1e0c9e8b7117afa1762ea3629d2f7c?nocache=1) · [Discord](https://discord.gg/reiden) · [Hata Bildir](https://discord.gg/reiden)
 
 </div>
 
@@ -187,7 +187,7 @@ Kişisel tercihlerinizi, gizliliğinizi ve hesap güvenliğinizi kolayca yapıla
     <td width="33%" align="center">
       <h3>🛡️ VirusTotal Raporları</h3>
       <p>Şeffaf güvenlik analizi ve resmi antivirüs tarama sonuçları.</p>
-      <a href="https://www.virustotal.com/gui/file/217dadbaf7b32e028eaa9ffc0967a74745897e03232baa1593a5c54bb7a129fd?nocache=1" target="_blank"><b>🔍 EXE Taraması</b></a> · <a href="https://www.virustotal.com/gui/file/6eda61725aa7017f6fb4e174341844f6339ad23b83c6e4e7c9f8ac90be7e945c?nocache=1" target="_blank"><b>🔍 MSI Taraması</b></a>
+      <a href="https://www.virustotal.com/gui/file/4730611473a49334485a47a46d03689129398866cce2938637cbeec471ab0857" target="_blank"><b>🔍 EXE Taraması</b></a> · <a href="https://www.virustotal.com/gui/file/600ee43261bb2da3fb7b3e7126f8e6848e1e0c9e8b7117afa1762ea3629d2f7c?nocache=1" target="_blank"><b>🔍 MSI Taraması</b></a>
     </td>
     <td width="33%" align="center">
       <h3>💬 Topluluk & Destek</h3>
