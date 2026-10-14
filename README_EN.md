@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-5.1.3-2f81f7?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/version-5.1.4-2f81f7?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-1f6feb?style=for-the-badge">
   <img alt="Status" src="https://img.shields.io/badge/status-active-238636?style=for-the-badge">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-Integrated-000000?style=for-the-badge&logo=steam">
@@ -26,10 +26,10 @@
   <a href="https://github.com/ReideN-Development/ReideN-Game-Library/releases">
     <img src="https://img.shields.io/badge/🚀_Download-Releases-blue?style=for-the-badge" alt="Download">
   </a>
-  <a href="https://www.virustotal.com/gui/file/600ee43261bb2da3fb7b3e7126f8e6848e1e0c9e8b7117afa1762ea3629d2f7c?nocache=1" target="_blank">
+  <a href="https://www.virustotal.com/gui/file/78bdfc2fc2481d7c687371fc7a7bd8d772907f60ac672749aae5f7e6b9d85bfd?nocache=1" target="_blank">
     <img alt="VirusTotal MSI" src="https://img.shields.io/badge/VirusTotal-MSI-blue?style=for-the-badge&logo=virustotal" />
   </a>
-  <a href="https://www.virustotal.com/gui/file/4730611473a49334485a47a46d03689129398866cce2938637cbeec471ab0857" target="_blank">
+  <a href="https://www.virustotal.com/gui/file/2db747a5fd1ae67aed5f7081f84f47386a360f12506713ceeaee5e7a4a24d06b?nocache=1" target="_blank">
     <img alt="VirusTotal EXE" src="https://img.shields.io/badge/VirusTotal-EXE-blue?style=for-the-badge&logo=virustotal" />
   </a>
 </p>
@@ -38,7 +38,7 @@
 
 **ReideN Game Library** is an advanced game management platform featuring dynamic library synchronization without client restarts, smart SteamID save integrity protection, multiplayer co-op bridge support, third-party launcher compatibility (Rockstar, Ubisoft, EA), and an extended catalog of over 178,000+ titles.
 
-[Download](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/4730611473a49334485a47a46d03689129398866cce2938637cbeec471ab0857) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/600ee43261bb2da3fb7b3e7126f8e6848e1e0c9e8b7117afa1762ea3629d2f7c?nocache=1) · [Discord](https://discord.gg/reiden) · [Report an Issue](https://discord.gg/reiden)
+[Download](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/2db747a5fd1ae67aed5f7081f84f47386a360f12506713ceeaee5e7a4a24d06b?nocache=1) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/78bdfc2fc2481d7c687371fc7a7bd8d772907f60ac672749aae5f7e6b9d85bfd?nocache=1) · [Discord](https://discord.gg/reiden) · [Report an Issue](https://discord.gg/reiden)
 
 </div>
 
@@ -187,7 +187,7 @@ Configure your privacy, integrations, and preferences:
     <td width="33%" align="center">
       <h3>🛡️ VirusTotal Reports</h3>
       <p>Transparent security reports and scan results.</p>
-      <a href="https://www.virustotal.com/gui/file/4730611473a49334485a47a46d03689129398866cce2938637cbeec471ab0857" target="_blank"><b>🔍 EXE Scan</b></a> · <a href="https://www.virustotal.com/gui/file/600ee43261bb2da3fb7b3e7126f8e6848e1e0c9e8b7117afa1762ea3629d2f7c?nocache=1" target="_blank"><b>🔍 MSI Scan</b></a>
+      <a href="https://www.virustotal.com/gui/file/2db747a5fd1ae67aed5f7081f84f47386a360f12506713ceeaee5e7a4a24d06b?nocache=1" target="_blank"><b>🔍 EXE Scan</b></a> · <a href="https://www.virustotal.com/gui/file/78bdfc2fc2481d7c687371fc7a7bd8d772907f60ac672749aae5f7e6b9d85bfd?nocache=1" target="_blank"><b>🔍 MSI Scan</b></a>
     </td>
     <td width="33%" align="center">
       <h3>💬 Community & Support</h3>
