@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-5.1.6-2f81f7?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/version-5.1.5-2f81f7?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-1f6feb?style=for-the-badge">
   <img alt="Status" src="https://img.shields.io/badge/status-active-238636?style=for-the-badge">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-Integrated-000000?style=for-the-badge&logo=steam">
@@ -38,7 +38,7 @@
 
 **ReideN Game Library** is an advanced game management platform featuring dynamic library synchronization without client restarts, smart SteamID save integrity protection, multiplayer co-op bridge support, third-party launcher compatibility (Rockstar, Ubisoft, EA), and an extended catalog of over 178,000+ titles.
 
-[Download](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/22de62ec31fb0673e2d11bbdac306e746341d6c259f4366911a7edef59967d90?nocache=1) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/0cabfae78bbfc05b9aeabcac9b38a00ab3abb5e47637235b8bae23132d392f92?nocache=1) · [Discord](https://discord.gg/reiden) · [Report an Issue](https://discord.gg/reiden)
+[Download](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/22de62ec31fb0673e2d11bbdac306e746341d6c259f4366911a7edef59967d90?nocache=1) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/0cabfae78bbfc05b9aeabcac9b38a00ab3abb5e47637235b8bae23132d392f92?nocache=1) · [Discord](https://discord.gg/denuvo) · [Report an Issue](https://discord.gg/denuvo)
 
 </div>
 
@@ -192,7 +192,7 @@ Configure your privacy, integrations, and preferences:
     <td width="33%" align="center">
       <h3>💬 Community & Support</h3>
       <p>Join our Discord server for help and support.</p>
-      <a href="https://discord.gg/reiden"><b>👉 Join Discord</b></a>
+      <a href="https://discord.gg/denuvo"><b>👉 Join Discord</b></a>
     </td>
   </tr>
 </table>
