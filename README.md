@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-5.1.6-2f81f7?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/version-5.1.5-2f81f7?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-1f6feb?style=for-the-badge">
   <img alt="Status" src="https://img.shields.io/badge/status-active-238636?style=for-the-badge">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-Integrated-000000?style=for-the-badge&logo=steam">
@@ -38,7 +38,7 @@
 
 **ReideN Game Library**, Steam'i yeniden başlatmadan anlık kütüphane yönetimi, Denuvo korumalı oyunlarda akıllı SteamID ve save güvencesi, çok oyunculu/co-op ağ desteği, harici launcher uyumluluğu (Rockstar, Ubisoft, EA) ve 178.000'den fazla kataloğu tek çatı altında toplayan gelişmiş bir oyun yönetim platformudur.
 
-[İndir](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/22de62ec31fb0673e2d11bbdac306e746341d6c259f4366911a7edef59967d90?nocache=1) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/0cabfae78bbfc05b9aeabcac9b38a00ab3abb5e47637235b8bae23132d392f92?nocache=1) · [Discord](https://discord.gg/reiden) · [Hata Bildir](https://discord.gg/reiden)
+[İndir](https://github.com/ReideN-Development/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/22de62ec31fb0673e2d11bbdac306e746341d6c259f4366911a7edef59967d90?nocache=1) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/0cabfae78bbfc05b9aeabcac9b38a00ab3abb5e47637235b8bae23132d392f92?nocache=1) · [Discord](https://discord.gg/denuvo) · [Hata Bildir](https://discord.gg/denuvo)
 
 </div>
 
@@ -192,7 +192,7 @@ Kişisel tercihlerinizi, gizliliğinizi ve hesap güvenliğinizi kolayca yapıla
     <td width="33%" align="center">
       <h3>💬 Topluluk & Destek</h3>
       <p>Öneri, soru, destek ve hata bildirimleri için Discord sunucumuza katılabilirsiniz.</p>
-      <a href="https://discord.gg/reiden"><b>👉 Discord'a Katıl</b></a>
+      <a href="https://discord.gg/denuvo"><b>👉 Discord'a Katıl</b></a>
     </td>
   </tr>
 </table>
